@@ -4,13 +4,17 @@
 
 This python implemented aplication executes calculations to define which members will be inserted into the Brazillian Legislative Chamber, through what we call the [Proportional Representation](https://en.wikipedia.org/wiki/Proportional_representation) method.
 
-## Execution
+## How to Execute
 
-If intented to execute this code, you will require a **python interpreter** on your system, since this project is coded in python. No need to compile, so let's just run the program.
+If intented to execute this code, you will require a **python3 interpreter** on your system, since this project is coded in python. No need to compile, so let's just run the program.
 
-```bash
-$ ./Candidates
+```zsh
+$ ./ProporElec.py
 ```
+
+## GitHub Repository
+
+*https://github.com/Codigos-de-Guerra/Aplication1*
 
 ## Autorship
 
